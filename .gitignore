@@ -1,0 +1,11 @@
+node_modules/
+venv/
+__pycache__/
+*.pyc
+.env
+uploads/
+output/
+neurorad.db
+.DS_Store
+dist/
+build/
